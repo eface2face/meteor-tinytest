@@ -1,0 +1,18 @@
+{
+  "name": "meteor-tinytest",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eface2face/meteor-tinytest"
+  },
+  "version": "1.3.0",
+  "description": "",
+  "main": "tinytest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "meteor-core": "^1.2.0"
+  }
+}
